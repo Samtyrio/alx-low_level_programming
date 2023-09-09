@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *  main - Betty you do this one
- *  Description - I be man
+ *  main - betty jooo
+ *  Description - checker jooo
  *  Return: 0
  */
 

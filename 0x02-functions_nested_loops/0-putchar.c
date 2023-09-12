@@ -1,9 +1,7 @@
 #include "main.h"
-
 /**
- * main - this program uses _putchar
- * it is written by me
- *
+ * main - print _putchar
+ * written by Samuel
  * Return: 0
  */
 
@@ -17,5 +15,6 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
+	_putchar('\n');
 	return (0);
 }

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _power_recursion - prints a value of a variable as the power of another
+ * _pow_recursion - prints a value of a variable as the power of another
  * @x: the big man variable
  * @y: the one who will be enslaved
  * Return: what is needed

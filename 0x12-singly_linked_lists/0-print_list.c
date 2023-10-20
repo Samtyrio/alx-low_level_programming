@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /**
- * print_list - prints a list
- * @h: the pointer to the first node
+ * print_list - prints lists
+ * @h: pointer to the head of the list
  * Return: what is needed
  */
 
@@ -16,7 +16,6 @@ size_t print_list(const list_t *h)
 			printf("[%d] %s\n", h->len, h->str);
 		else
 			printf("[0] (nil)\n");
-
 		nodes++;
 		h = h->next;
 	}
